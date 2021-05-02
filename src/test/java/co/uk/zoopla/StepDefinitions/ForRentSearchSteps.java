@@ -18,15 +18,4 @@ public class ForRentSearchSteps {
     public void i_select_from_rental_Max_price_for_rent(String string) {
 
     }
-
-    @When("select {string} from Property type")
-    public void select_from_Property_type(String string) {
-
-    }
-
-    @When("I select {string} from Bedrooms")
-    public void i_select_from_Bedrooms(String string) {
-
-    }
-
 }
