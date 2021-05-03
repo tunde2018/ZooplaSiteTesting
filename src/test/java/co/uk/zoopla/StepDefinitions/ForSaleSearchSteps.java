@@ -39,19 +39,6 @@ public class ForSaleSearchSteps {
     @When("I click on search button")
     public void i_click_on_search_button() {
 
-    }
-
-    @Then("the search for {string} is displayed")
-    public void the_search_for_is_displayed(String string) {
-
-    }
-
-    @Then("I click on one of the search result")
-    public void i_click_on_one_of_the_search_result() {
-
-    }
-    @Then("an error page is displayed")
-    public void an_error_page_is_displayed() {
 
     }
 }
